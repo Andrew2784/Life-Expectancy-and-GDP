@@ -1,2 +1,2 @@
-# Project1
+# Life Expectancy and GDP
 This project
